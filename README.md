@@ -61,7 +61,7 @@ This project features an interactive Power BI dashboard built using the popular 
 
 ## 🚀 How To Use This Project
 
-1. Download the `Superstore.pbix` file from this repository.
+1. Download the `Super Store Sales Dashboard.pbix` file from this repository.
 2. Open it using the *latest version* of **Power BI Desktop**.
 3. Use slicers and filters to interact with insights dynamically.
 
