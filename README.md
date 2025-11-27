@@ -68,4 +68,5 @@ This project features an interactive Power BI dashboard built using the popular 
 ---
 
 ## 📷 Dashboard Preview
+<img width="1352" height="753" alt="image" src="https://github.com/user-attachments/assets/20118c03-dde7-4dcc-a216-8143db65370d" />
 
